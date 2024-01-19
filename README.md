@@ -14,6 +14,6 @@ Inês Santos	- Gameplay and Audio Programmer
 
 Bruno Brandão - Pixel Artist/Animator
 
-![Screenshot (5824)](https://github.com/DioNizzio/RiverRunners/assets/104149340/cbca68e9-d964-4bbc-95d0-cbb71582e970)
+![Screenshot (5822)](https://github.com/DioNizzio/RiverRunners/assets/104149340/76107532-7d03-4a0f-ae4c-c1053ceaec30)
 
 Gameplay footage: https://youtu.be/ytBWnAAtfX0
