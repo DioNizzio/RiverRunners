@@ -17,3 +17,5 @@ Bruno Brandão - Pixel Artist/Animator
 ![Screenshot (5822)](https://github.com/DioNizzio/RiverRunners/assets/104149340/76107532-7d03-4a0f-ae4c-c1053ceaec30)
 
 Gameplay footage: https://youtu.be/ytBWnAAtfX0
+
+Game Link: https://misternizzio.itch.io/riverrunners
